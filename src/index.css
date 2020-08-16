@@ -1,0 +1,69 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar{
+  background-color: rgba(35, 33, 54, 0.9);
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 580px;
+  opacity: 0.8;
+}
+.carousel-inner{
+  background: #333
+}
+
+.report img{
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: #ffe;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-file-upload {
+  
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.custom-file-upload.btn{
+  background-color: #2f618e; 
+  opacity: 0.95;
+  color: #FFF 
+}
+
+.custom-file-upload.btn:hover{
+  opacity: 1;
+  background-color: #2f618e;
+}
+.report nav{
+  background-color: #2b4b6d;
+}
+.carousel-caption {
+  bottom: 50px;
+  left: 10%;
+  text-align: left;
+}
+
+.carousel-caption h5{
+  font-weight: 500;
+}
+.carousel-caption p.lead {
+  font-weight: 500;
+  width: 50%;
+  color: #dddddd
+}
+
+
+
+.carousel-caption a {
+  font-weight: 400;
+}
